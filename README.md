@@ -13,7 +13,7 @@ I'm Jan from Germany, and I do web development. I really enjoy learning language
 
 
 **HerbEnergy** is the next step of HerbSmartFlow and serves landlords and tenants as an overview dashboard of their electricity consumption based on installed smart meters in their aparments.
-<img src="https://github.com/LudenFlex/LudenFlex/blob/main/Ubersicht_AllgemeinHerbEnergy.webp?raw=true" width="512"/>
+<img src="https://github.com/LudenFlex/LudenFlex/blob/main/Ubersicht_AllgemeinHerbEnergy.webp?raw=true" width="1024"/>
 
 
 
